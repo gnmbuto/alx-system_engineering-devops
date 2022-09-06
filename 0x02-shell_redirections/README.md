@@ -34,4 +34,6 @@ Task 16 - What's next in there?
 
 Task 17 - No bin patterns
 
+Task 18 - Letters only please
+
 
