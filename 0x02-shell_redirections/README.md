@@ -18,4 +18,6 @@ Task 8 - Save current state of directory
 
 Task 9 - Duplicate last line
 
+Task 10 - No more JavaScript
+
 
