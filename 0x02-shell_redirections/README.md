@@ -9,3 +9,5 @@ Task 3 - Displays the content of two file at the same time
 Task 4 - Displays last 10 lines of /etc/passwd
 
 Task 5 - Displays first 10 lines of /etc/passwd
+
+Task 6 - Displays third line of the file iacta
