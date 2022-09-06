@@ -28,6 +28,8 @@ Task 13 - Floating point characters
 
 Task 14 - Base 10 to Base 16 conversion
 
-Task 15 - 
+Task 15 - Encryption using ASCII
+
+Task 16 -  
 
  
