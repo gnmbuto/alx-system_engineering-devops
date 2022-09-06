@@ -10,4 +10,6 @@ Task 4 - A script that lists all global variables
 
 Task 5 - A script for all variables and scripts
 
-Task 6 - 
+Task 6 - A script that creates a new local variable
+
+Task 7 -   
