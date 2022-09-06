@@ -30,6 +30,8 @@ Task 14 - Base 10 to Base 16 conversion
 
 Task 15 - Encryption using ASCII
 
-Task 16 -  
+Task 16 - Prints every other line from the input, starting with the first line
+
+Task 17 -   
 
  
