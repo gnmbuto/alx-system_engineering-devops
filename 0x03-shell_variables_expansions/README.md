@@ -8,4 +8,6 @@ Task 3 - A script to count the number of directories in PATH
 
 Task 4 - A script that lists all global variables
 
-task 5 -     
+Task 5 - A script for all variables and scripts
+
+Task 6 - 
