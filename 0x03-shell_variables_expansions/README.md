@@ -26,4 +26,8 @@ Task 12 - Combination of two letters
 
 Task 13 - Floating point characters
 
+Task 14 - Base 10 to Base 16 conversion
+
+Task 15 - 
+
  
