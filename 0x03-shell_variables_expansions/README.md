@@ -6,4 +6,6 @@ Task 2 - Add /action to PATH
 
 Task 3 - A script to count the number of directories in PATH
 
-Task 4 -    
+Task 4 - A script that lists all global variables
+
+task 5 -     
