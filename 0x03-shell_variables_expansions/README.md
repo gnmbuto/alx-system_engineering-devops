@@ -20,4 +20,6 @@ Task 9 - A script for mathematical division
 
 Task 10 - Breath to the power of love
 
-Task 11 - 
+Task 11 - Binary word play 
+
+Task 12 - 
