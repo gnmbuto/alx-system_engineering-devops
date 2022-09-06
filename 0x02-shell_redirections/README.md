@@ -40,4 +40,6 @@ Task 19 - A to Z
 
 Task 20 - Hiago, C does not live here
 
+Task 21 - A script to reverse its input
+
 
