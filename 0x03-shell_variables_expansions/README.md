@@ -16,5 +16,6 @@ Task 7 - A script that creates a new global variable
 
 Task 8 - A script for mathematical arithmetic
 
+Task 9 - A script for mathematical division
 
-Task 9 - 
+Task 10 -   
