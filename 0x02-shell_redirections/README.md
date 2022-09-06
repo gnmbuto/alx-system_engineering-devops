@@ -42,4 +42,6 @@ Task 20 - Hiago, C does not live here
 
 Task 21 - A script to reverse its input
 
+Task 22 - A script to display all users and their home directories sorted by users
+
 
