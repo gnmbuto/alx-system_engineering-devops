@@ -24,4 +24,6 @@ Task 11 - Binary word play
 
 Task 12 - Combination of two letters
 
+Task 13 - Floating point characters
+
  
