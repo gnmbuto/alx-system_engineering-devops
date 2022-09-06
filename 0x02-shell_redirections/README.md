@@ -48,4 +48,6 @@ Task 23 - Empty casks make the most noise
 
 Task 24 - A script for gifs
 
+Task 25 - The Acrostic
+
 
