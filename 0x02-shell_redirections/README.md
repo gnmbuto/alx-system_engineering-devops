@@ -46,4 +46,6 @@ Task 22 - A script to display all users and their home directories sorted by use
 
 Task 23 - Empty casks make the most noise
 
+Task 24 - A script for gifs
+
 
