@@ -16,4 +16,6 @@ Task 7 - File that cuts iron
 
 Task 8 - Save current state of directory
 
+Task 9 - Duplicate last line
+
 
