@@ -12,4 +12,6 @@ Task 5 - A script for all variables and scripts
 
 Task 6 - A script that creates a new local variable
 
-Task 7 -   
+Task 7 - A script that creates a new global variable
+
+task 8 -  
