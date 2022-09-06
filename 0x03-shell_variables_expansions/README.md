@@ -22,4 +22,6 @@ Task 10 - Breath to the power of love
 
 Task 11 - Binary word play 
 
-Task 12 - 
+Task 12 - Combination of two letters
+
+ 
