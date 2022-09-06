@@ -11,3 +11,7 @@ Task 4 - Displays last 10 lines of /etc/passwd
 Task 5 - Displays first 10 lines of /etc/passwd
 
 Task 6 - Displays third line of the file iacta
+
+Task 7 - File that cuts iron
+
+
