@@ -52,4 +52,6 @@ Task 25 - The Acrostic
 
 Task 26 - NASA biggest fan example
 
+Overall the mandatory tasks were super tough :), A revisit of shell redirections is mandatory
+
 
