@@ -4,4 +4,6 @@ Task 1 - A script that greets the user
 
 Task 2 - Add /action to PATH 
 
-Task 3 -  
+Task 3 - A script to count the number of directories in PATH
+
+Task 4 -    
